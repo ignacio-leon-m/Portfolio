@@ -35,9 +35,9 @@ _Llamar para pruebas de entrevistas_
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [HTML]() -
-* [CSS]() -
-* [JavaScript] -
+* [HTML]() 
+* [CSS]() 
+* [JavaScript]() 
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de texto utilizado.
 * [Bootstrap](https://getbootstrap.com/) - Framework de estilos utilizado.
 * [Fontawesome](https://fontawesome.com/) - Framework para los iconos
